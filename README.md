@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunekyo&show_icons=true&theme=radical)
 
 <!--
 **kitsunekyo/kitsunekyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
