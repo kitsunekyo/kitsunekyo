@@ -1,5 +1,5 @@
 hello ✌    
-i'm a frontend dev who focuses on building things, supporting and connecting people so that we can work as efficiently as possible.
+i'm a lead frontend dev who focuses on building things, and supporting and connecting people.
 
 ![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunekyo&show_icons=true&theme=dark)
 
