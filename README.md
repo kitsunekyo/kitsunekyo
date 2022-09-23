@@ -1,4 +1,4 @@
-hello ✌ i'm a lead frontend from austria and I really love clean and readable code, and mentoring teams.
+hello ✌ i'm a lead frontend dev from austria and I really love clean and readable code, and mentoring teams.
 
 ![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunekyo&show_icons=true&theme=dark)
 
