@@ -1,4 +1,6 @@
-hello ✌ i'm a frontend dev lead from austria and I love clean and readable code, and mentoring teams.
+servus ✌ i'm a frontend dev lead from austria. 
+
+I believe exceptional performance and growth only happens when we find joy and purpose in what we do and if we aren't afraid of a little discomfort along the way.
 
 ![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunekyo&show_icons=true&theme=dark)
 
