@@ -1,4 +1,4 @@
-servus ✌ i'm a frontend dev lead from austria. 
+servus ✌ i'm a frontend dev from austria. 
 
 I believe exceptional performance and growth only happens when we find joy and purpose in what we do and if we aren't afraid of a little discomfort along the way.
 
